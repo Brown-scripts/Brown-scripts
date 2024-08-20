@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Kathleen Nicole Brown. Currently a Computer Engineering Student at University of Ghana.
 
 <!--
 **Brown-scripts/Brown-scripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
